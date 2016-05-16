@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jong/Projects/test/koc_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/jong/Projects/test/koc_android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_25a24331dac91166b0be4bb8b07a34638b70e764.jar" />
+    </item>
+    <item
+        jar="/home/jong/Projects/test/koc_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/jong/Projects/test/koc_android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_25a24331dac91166b0be4bb8b07a34638b70e764.jar" />
+    </item>
+    <item
+        jar="/home/jong/Projects/test/koc_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/jong/Projects/test/koc_android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_e2b66c5cbe068bab67d47c9b5702ce01d8d35065.jar" />
+    </item>
+    <item
+        jar="/home/jong/Projects/test/koc_android/app/libs/nmaps.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2758047abc664826f7633b504d7f6ac281aadfb3">
+        <dex dex="/home/jong/Projects/test/koc_android/app/build/intermediates/pre-dexed/debug/nmaps_be91531602aee1b3527581bcb9d94a659f8a8e91.jar" />
+    </item>
+    <item
+        jar="/home/jong/Projects/test/koc_android/app/libs/nmaps.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2758047abc664826f7633b504d7f6ac281aadfb3">
+        <dex dex="/home/jong/Projects/test/koc_android/app/build/intermediates/pre-dexed/debug/nmaps_be91531602aee1b3527581bcb9d94a659f8a8e91.jar" />
+    </item>
+    <item
+        jar="/home/jong/Projects/test/koc_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/jong/Projects/test/koc_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_b3c378763d1506673368fd71ca889891139278c5.jar" />
+    </item>
+    <item
+        jar="/home/jong/Projects/test/koc_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/jong/Projects/test/koc_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_b3c378763d1506673368fd71ca889891139278c5.jar" />
+    </item>
+    <item
+        jar="/home/jong/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/jong/Projects/test/koc_android/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_229bda085ced4099e74f9a21b8d84b9abecf99f2.jar" />
+    </item>
+    <item
+        jar="/home/jong/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/jong/Projects/test/koc_android/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_229bda085ced4099e74f9a21b8d84b9abecf99f2.jar" />
+    </item>
+    <item
+        jar="/home/jong/Projects/test/koc_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/jong/Projects/test/koc_android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_e2b66c5cbe068bab67d47c9b5702ce01d8d35065.jar" />
+    </item>
+
+</items>
